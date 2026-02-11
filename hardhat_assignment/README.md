@@ -12,16 +12,15 @@ npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.ts
 ```
 
-
-
 ### Lisk Network:   
 
-Deployed Addresses
+Here is my contract address for Lisk Network:
 
-StorageModule#Owner - 0x843ee280A9C8AaaFe509d6daA422B59a78a7B948
+Contract Address: 0x843ee280A9C8AaaFe509d6daA422B59a78a7B948
 
-### ARC Nework:
 
-Deployed Addresses
+### ARC Network:
 
-StorageModule#Owner - 0x843ee280A9C8AaaFe509d6daA422B59a78a7B948
+Here is my contract address for Ark Network:
+
+Contract Address: 0x843ee280A9C8AaaFe509d6daA422B59a78a7B948
